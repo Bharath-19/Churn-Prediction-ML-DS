@@ -15,8 +15,12 @@ The goal was to not just build models, but to also understand **what factors dri
 |   |__ Churn_prediction.ipynb
 |
 +---outputs
-    |__ churn_cleaned.csv
-    |__ Churn_prediction_BI_Final.pbix
+|   |__ churn_cleaned.csv
+|   |__ Churn_prediction_BI_Final.pbix
+|
++---Images
+    |__ dashboard.png
+    |__ roc_curve.png
 ```
 ## 🚀 Key Highlights
 
