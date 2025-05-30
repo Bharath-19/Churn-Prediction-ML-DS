@@ -38,9 +38,9 @@ The goal was to not just build models, but to also understand **what factors dri
 
 | Model         | Accuracy | F1 Score | ROC-AUC |
 |---------------|----------|----------|---------|
-| Random Forest | 82%      | 0.69     | 0.84    |
-| SVM           | 78%      | 0.63     | 0.80    |
-| XGBoost       | 83%      | 0.70     | 0.85    |
+| Random Forest | 78%      | 0.55     | 0.823   |
+| SVM           | 79%      | 0.55     | 0.80    |
+| XGBoost       | 77%      | 0.55     | 0.822   |
 
 ## 📊 Power BI Dashboard Preview
 
@@ -49,10 +49,7 @@ The dashboard provides a business-friendly summary:
 - Service subscription trends
 - Risk distribution across customer segments
 
-> 📁 File: `outputs/churn_powerbi.pbix`
-
 ---
-
 ## ▶️ How to Run
 
 1. Clone the repository
