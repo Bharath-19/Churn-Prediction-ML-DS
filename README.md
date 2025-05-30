@@ -52,7 +52,7 @@ The dashboard provides a business-friendly summary:
 - Churn by tenure, gender, and contract type
 - Service subscription trends
 - Risk distribution across customer segments
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview](Images/dhashboard.png)
 ---
 ## ▶️ How to Run
 
