@@ -52,7 +52,11 @@ The dashboard provides a business-friendly summary:
 - Churn by tenure, gender, and contract type
 - Service subscription trends
 - Risk distribution across customer segments
+  
 ![Dashboard Preview](Images/dhashboard.png)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 ---
 ## ▶️ How to Run
 
