@@ -1,5 +1,8 @@
 # Churn Prediction Using Machine Learning
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+
 This project focuses on predicting customer churn using various machine learning models, with an added business-facing Power BI dashboard for visual insights. The dataset is based on a real-world telecom provider and includes customer demographics, account information, and service usage patterns.
 
 The goal was to not just build models, but to also understand **what factors drive churn**, and **how we can visualize risk** in a way that non-technical users can act on.
@@ -54,8 +57,6 @@ The dashboard provides a business-friendly summary:
 - Risk distribution across customer segments
   
 ![Dashboard Preview](Images/dhashboard.png)
-
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 ## ▶️ How to Run
